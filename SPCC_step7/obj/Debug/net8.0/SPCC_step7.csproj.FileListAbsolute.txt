@@ -12,3 +12,4 @@ C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\refint\SPCC_s
 C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.pdb
 C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.genruntimeconfig.cache
 C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\ref\SPCC_step7.dll
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.sourcelink.json
