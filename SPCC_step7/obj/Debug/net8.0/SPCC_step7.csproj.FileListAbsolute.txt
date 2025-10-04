@@ -1,0 +1,14 @@
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\bin\Debug\net8.0\SPCC_step7.exe
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\bin\Debug\net8.0\SPCC_step7.deps.json
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\bin\Debug\net8.0\SPCC_step7.runtimeconfig.json
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\bin\Debug\net8.0\SPCC_step7.dll
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\bin\Debug\net8.0\SPCC_step7.pdb
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.AssemblyInfoInputs.cache
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.AssemblyInfo.cs
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.csproj.CoreCompileInputs.cache
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.dll
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\refint\SPCC_step7.dll
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.pdb
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\SPCC_step7.genruntimeconfig.cache
+C:\Users\ekpul\source\repos\SPCC_step7\SPCC_step7\obj\Debug\net8.0\ref\SPCC_step7.dll
