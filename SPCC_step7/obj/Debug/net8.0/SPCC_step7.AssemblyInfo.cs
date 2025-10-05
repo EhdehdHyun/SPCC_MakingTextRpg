@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SPCC_step7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fa192b93731eb2f8eaa1ca0e81158860deb62b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+506797a14e4b902435087a81361a41d0e550a893")]
 [assembly: System.Reflection.AssemblyProductAttribute("SPCC_step7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SPCC_step7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
